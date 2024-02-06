@@ -2,6 +2,11 @@
 Tes kebidangan untuk posisi Web Developer di Aptavis oleh Muhamad Zakaria Saputra
 
 # Instalasi
+Pertama, clone terlebih dahulu repositori ini dengan cara menjalankan perintah di bawah ini:
+```bash
+git -b master https://github.com/Zakaria-S/test-web-aptavis.git
+cd test-web-aptavis
+```
 jalankan perintah di bawah ini:
 ```bash
 composer install
